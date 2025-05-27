@@ -71,5 +71,6 @@ minikube service django-svc
 
 ## Author 
 Symon
-Author
+
+
 Learning Docker + Kubernetes — One Pod at a Time 🚢☸️
