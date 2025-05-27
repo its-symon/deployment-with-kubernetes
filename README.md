@@ -67,3 +67,9 @@ kubectl apply -f runpod.yml
 kubectl expose pod movie-pod --name=django-svc --type=NodePort --port=8000 --target-port=8000
 minikube service django-svc
 ```
+
+
+## Author 
+Symon
+Author
+Learning Docker + Kubernetes — One Pod at a Time 🚢☸️
